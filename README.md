@@ -1,5 +1,5 @@
 #### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-### I just finished my studies to become a Full Stack Java Dev.
+### I finished my studies to become a Full Stack Java Dev.
 ``
 #### My skills:
 [![Java](https://img.shields.io/badge/Java-a30800?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -21,14 +21,16 @@
 [![Workbench](https://img.shields.io/badge/Workbench-8e398e?style=for-the-badge)]()
 [![GitHub](https://img.shields.io/badge/GitHub-8e398e?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
-#### Also learning:
+#### Also interested in:
 
 [![Python](https://img.shields.io/badge/Python-a30800?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-2d9fc1?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Project Managment](https://img.shields.io/badge/Project_Managment-2a8000?style=for-the-badge&logoColor=white&labelColor=101010)]()
+
 
 #### 📫 How to reach me:</br>
-[![Mail](https://img.shields.io/badge/-yandirad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yandirad@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-yandirad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yandirad/)
+[![Mail](https://img.shields.io/badge/-AnaMurinigo-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anamurinigo@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-AnaMurinigo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-murinigo-1a0679219/)
 
 #### GitHub Stats:
-[![Yandira's GitHub stats](https://github-readme-stats.vercel.app/api?username=yandirad&hide=prs,issues&show_icons=true&theme=synthwave)](https://github.com/yandirad/github-readme-stats)
+[![Yandira's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaMurinigo&hide=prs,issues&show_icons=true&theme=synthwave)](https://github.com/AnaMurinigo/github-readme-stats)
